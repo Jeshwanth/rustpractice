@@ -1,0 +1,6 @@
+[package]
+name = "window_movement"
+version = "0.1.0"
+authors = ["susanootux"]
+
+[dependencies]
