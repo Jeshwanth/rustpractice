@@ -1,0 +1,7 @@
+[package]
+name = "curlWorld"
+version = "0.1.0"
+authors = ["susanoo <jeshkumar555@gmail.com>"]
+
+[dependencies]
+curl = "0.4.6"
