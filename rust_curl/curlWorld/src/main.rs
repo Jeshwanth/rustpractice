@@ -1,6 +1,5 @@
-
-extern crate curl;
-use curl::easy::Easy;
+extern crate curl; //Curl crate
+use curl::easy::Easy; //Using easy functions
 use std::io::{stdout, Write};
 
 
