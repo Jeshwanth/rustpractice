@@ -1,5 +1,3 @@
-#![allow(unused_variables)]
-
 enum Message {
    Quit,
    ChangeColor(i32, i32, i32),
