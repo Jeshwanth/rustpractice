@@ -3,7 +3,7 @@
 fn main() {
     println!("Finding factors of x!");
 
-	let x = 120;
+	let x = 9;
 	let mut mul = 1;
     let mut done = false;
     let mut j = 0;
