@@ -1,0 +1,8 @@
+fn main() {
+{
+		for x in 1..num 
+		{
+			println!("{}", x);
+			}
+
+}
