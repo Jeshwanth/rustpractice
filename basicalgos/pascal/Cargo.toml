@@ -1,0 +1,6 @@
+[package]
+name = "pascal"
+version = "0.1.0"
+authors = ["susanoo <jeshkumar555@gmail.com>"]
+
+[dependencies]
