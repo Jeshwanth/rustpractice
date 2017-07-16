@@ -19,5 +19,4 @@ fn main() {
 
     println!("Al is {:?}", atomicsymbol.get(&"Al"));
 
-
 }
