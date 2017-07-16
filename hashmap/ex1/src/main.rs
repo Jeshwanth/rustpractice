@@ -1,7 +1,7 @@
 use std::collections::HashMap;
 
 #[derive(Debug)]
-struct atom {
+struct Atom {
     name: String,
     atomic_number: u32,
 }
@@ -11,7 +11,7 @@ fn main() {
 
     atomicsymbol.insert(
         "Al",
-        atom {
+        Atom {
             name: "Aluminium".to_string(),
             atomic_number: 13,
         },
