@@ -1,11 +1,11 @@
+use std::collections::HashMap;
 
-mod dna {
-    fn count(c: char, s: &str) -> Result<usize, bool>{
+    pub fn count(c: char, s: &str) -> Result<usize, bool>{
         Ok(0)
     }
 
-    fn nucleotide_counts(s: &str) -> Result<usize, bool>{
-        Ok(0)
-    }
+    pub fn nucleotide_counts(s: &str) -> HashMap<char, usize> {
+        let res: HashMap<char, usize> = HashMap::new();
 
-}
+        return res;
+    }

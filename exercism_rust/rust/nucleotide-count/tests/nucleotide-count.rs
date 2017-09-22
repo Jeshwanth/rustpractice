@@ -20,6 +20,7 @@ fn count_returns_result() {
     assert!(dna::count('A', "").is_ok());
 }
 
+
 #[test]
 #[ignore]
 fn test_count_empty() {
